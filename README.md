@@ -1,7 +1,7 @@
 # ChatTK
 ## Simple ChatGPT GUI in tkinter and the revChatGPT python package
 https://github.com/acheong08/ChatGPT  
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=ChatTK&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>  
+  
 ![image](https://user-images.githubusercontent.com/83492589/224473942-f49af203-78b2-4344-a50e-2a28da61aef1.png)
 
 # Installation
