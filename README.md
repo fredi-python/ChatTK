@@ -1,2 +1,2 @@
 # ChatTK
-ChatGPT GUI in tkinter
+Simple ChatGPT GUI in tkinter
