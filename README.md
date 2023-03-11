@@ -30,6 +30,8 @@ python3 main.py
 [![Star History Chart](https://api.star-history.com/svg?repos=fredi-python/ChatTK&type=Date)](https://star-history.com/#fredi-python/ChatTK&Date)
 
 
+# Contributors
+
  <a href="https://github.com/fredi-python/ChatTK/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=fredi-python/ChatTK" />
  </a>
