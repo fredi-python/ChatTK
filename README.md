@@ -20,7 +20,7 @@ python3 -m pip install --upgrade -r requirements.txt
 ```
 
 # Usage
-Before you run it edit the main.py and change the email and password
+### Before you run it edit the main.py and change the email and password
 open a Terminal in the ChatTK folder, and type:
 ```
 python3 main.py
