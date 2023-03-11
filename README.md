@@ -25,3 +25,6 @@ open a Terminal in the ChatTK folder, and type:
 ```
 python3 main.py
 ```
+
+# Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=fredi-python/ChatTK&type=Date)](https://star-history.com/#fredi-python/ChatTK&Date)
